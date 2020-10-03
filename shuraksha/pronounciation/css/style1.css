@@ -117,3 +117,59 @@ p1 {
         padding: 0px;
         margin: auto;
     }
+  @media screen and (max-width:768px){
+    .container{
+        width:100%;
+    }
+            .box1{
+                width:40%;
+                display:inline-block;
+                position: relative; left: 15%;
+                padding-bottom: 10%;
+            }
+            .box3{
+                width:40%;
+                display:inline-block;
+                position: relative; left:15%;
+            }
+            .box5{
+                width:40%;
+                display:inline-block;
+                position: relative; left: 15%;
+            }
+            .box7{
+                width:40%;
+                display:inline-block;
+                position: relative; left: 16%;
+            }
+            .box9{
+                width:40%;
+                display:inline-block;
+                position: relative; left: 16%;
+            }
+            .box0{
+                position: relative; left: -14%;
+                width:40%;
+            }
+            .box2{
+                position: relative; left:-14%;
+                width:40%;
+            }
+            .box4{
+                position: relative; left: -14%;
+                width:40%;
+            }
+            .box6
+            {
+            position: relative; left: -12%;
+            width:40%;
+        }
+        .box8{
+            position: relative; left: -12%;
+            width:40%;
+        }
+    }
+
+
+
+    
